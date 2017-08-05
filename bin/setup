@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# Set up Jekyll site. Run this script immediately after cloning the codebase.
+# https://github.com/thoughtbot/guides/tree/master/protocol
+
+# Intall proper ruby version if not present
+# (future scripts need to check for ruby)
+
+rbenv install -s $(cat .ruby-version)
+rbenv local $(cat .ruby-version)
+
+# Install bundler if not present
+# (future scripts need to check for bundler)
+
+gem install bundler
+
+# Set up Ruby dependencies
+bundle install
+
+# Set up staging and production git remotes
+# git remote add staging git@heroku.com:app-staging.git
+# git remote add production git@heroku.com:app-production.git

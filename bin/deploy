@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/Applications/ImageOptim.app/Contents/MacOS/ImageOptim assets/images/*
+
+JEKYLL_ENV=production jekyll build
