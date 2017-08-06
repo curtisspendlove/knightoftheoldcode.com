@@ -4,8 +4,8 @@ title:  "How I Create a New Jekyll Project"
 date:   2017-07-20
 modified:   2017-08-05
 description: "..."
-excerpt: "I use a somewhat persnickety process for starting any given project. I prefer to use the
-latest component versions for any given tech stack."
+excerpt: "I use a somewhat persnickety process for starting any given project. This is my chosen
+method for starting a Jekyll site."
 categories: article
 tags:
 - beginner
@@ -14,9 +14,9 @@ tags:
 
 ![The Completed Project Structure](/assets/images/jekyll/default-jekyll-directory-structure.png)
 
-I use a somewhat persnickety process for starting any given project. I prefer to use the latest
-component versions for any given tech stack. While most would just dig in with
-`jekyll new new_site`, I prefer to be a little more precise.
+I use a somewhat persnickety process for starting any given project. This is my chosen method for
+starting a Jekyll site. I prefer to use the latest component versions for any given tech stack.
+While most would just dig in with `jekyll new new_site`, I prefer to be a little more precise.
 
 ## Initialize Project
 
