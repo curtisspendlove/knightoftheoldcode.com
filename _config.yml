@@ -14,7 +14,7 @@ description              : "A puzzle? An enigma? Naw, just a redneck with a keyb
 url                      : "https://knightoftheoldcode.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "knightoftheoldcode/knightoftheoldcode.com"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "/assets/images/markup-syntax-highlighting-teaser.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

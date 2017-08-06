@@ -13,7 +13,6 @@ tags:
 - rails
 ---
 
-
 ![The Completed Project Structure](/assets/images/rails/default-rails-directory-structure.png)
 
 I use a somewhat persnickety process for starting any given project. This is my chosen method for
