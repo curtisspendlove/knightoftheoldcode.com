@@ -3,3 +3,5 @@
 /Applications/ImageOptim.app/Contents/MacOS/ImageOptim assets/images/*
 
 JEKYLL_ENV=production jekyll build
+
+# aws s3 sync _site s3://knightoftheoldcode.com
