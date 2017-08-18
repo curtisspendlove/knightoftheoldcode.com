@@ -2,6 +2,9 @@
 layout: single
 title:  "25 Minutes of Rock"
 date:   2017-07-13
+header:
+  image: /assets/images/itunes-smart-playlists-rock.png
+  teaser: /assets/images/teasers/itunes-smart-playlists-rock.png
 description: "25 minutes of rock"
 excerpt: "Over the years I've tried many different techniques for maintaining the state of flow and pushing all the distractions to the background."
 series: 25m-of-rock
@@ -11,8 +14,6 @@ tags:
 - music
 - timeboxing
 ---
-
-![For Those About to Rock](/assets/images/itunes-smart-playlists-rock.png)
 
 I'm an odd duck. In a single day I can transition between several phases of deep flow (dropping code like a bomb, tearing through feature requests) and skimming the surface of my task list (chasing nearly every shiny object on my screen like a kitten).
 
