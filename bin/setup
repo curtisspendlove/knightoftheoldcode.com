@@ -17,6 +17,9 @@ gem install bundler
 # Set up Ruby dependencies
 bundle install
 
+# Set up Node dependencies
+npm install
+
 # Set up staging and production git remotes
 # git remote add staging git@heroku.com:app-staging.git
 # git remote add production git@heroku.com:app-production.git

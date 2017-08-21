@@ -1,7 +1,8 @@
 #!/bin/sh
 
-/Applications/ImageOptim.app/Contents/MacOS/ImageOptim assets/images/*
+npm run build:js
 
+JEKYLL_ENV=production jekyll clean
 JEKYLL_ENV=production jekyll build
 
-# aws s3 sync _site s3://knightoftheoldcode.com
+aws s3 sync --acl public-read --sse --delete _site s3://knightoftheoldcode.com

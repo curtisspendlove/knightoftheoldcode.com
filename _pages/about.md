@@ -50,7 +50,8 @@ I first knew I was destined to write code when I shipped my first Macintosh appl
 
     <h3>Resume</h3>
     <div>
-        <p>Download Traditional <a id="traditional_resume_link" href="/assets/pdfs/resume/curtisspendlove.pdf" target="_blank">Resume</a></p>
+        <p>Please download my traditional <a id="traditional_resume_link" href="/assets/pdfs/resume/curtisspendlove.pdf" target="_blank">resume</a> if you have
+        need.</p>
     </div>
 </section>
 
@@ -81,14 +82,3 @@ Please feel free to contact me for any reason. You can use any of the methods in
     <div><span>Please feel free to contact me for any reason. Submitting an entry in the form below sends an immediate message to me, I'll get back to you as quickly as possible.</span></div>
 </section>
  -->
-
-<script>
-    document.getElementById('traditional_resume_link').addEventListener('click', function() {
-        ga('send', {
-            hitType: 'event',
-            eventCategory: 'Resume',
-            eventAction: 'click',
-            eventLabel: 'Traditional Resume Click'
-        });
-    }, false);
-</script>
