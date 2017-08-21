@@ -57,6 +57,10 @@ I first knew I was destined to write code when I shipped my first Macintosh appl
 
 ## Raving Fans
 
+Below is a quick (randomized) spattering of adulation from individuals in various roles of my life.
+If this isn't enough to convince you that I'm awesome, please feel free to
+[read more][koc-raving-fans].
+
 <!-- > What Jake said...
 
 <cite>Jake Mallory</cite> --- CTO, Acima Credit (formerly Simple Finance)
@@ -67,10 +71,18 @@ I first knew I was destined to write code when I shipped my first Macintosh appl
 <cite>Daniel Winn</cite> --- Senior Technical Recruiter, ConsultNet
 {: .small}
 
+
 > I have known Curtis for many years. He is loyal, friendly and very smart. He has always loved computers and has worked hard to become a great developer. I respected his abilities so much that I recommended him for a position working with me a few years ago. He was a great addition to our team. He worked well on his own and with others, leading younger developers and collaborating with more experienced ones. Curtis is a great coworker, a valuable employee and a very capable leader.
 
-<cite>Jase Hopkin</cite> --- Senior Developer, mediaRif
+<cite>Jase Hopkin</cite> --- IT Analyst 2, State of Utah
 {: .small}
+
+
+> I worked with Curt for 5 years with him as my dev lead. He's a great co-worker and a great leader. He's very talented as a coder and is excellent at finding solutions to technical problems. As a lead, I never felt that he was overbearing or demanding and I always felt like he was willing to get into the code to help me learn and solve problems. I would absolutely recommend Curt for any software project that needs an experienced and smart leader.
+
+<cite>Brandon Beck</cite> --- Software Engineer Lead, Domo
+{: .small}
+
 
 ## Contact
 
@@ -82,3 +94,5 @@ Please feel free to contact me for any reason. You can use any of the methods in
     <div><span>Please feel free to contact me for any reason. Submitting an entry in the form below sends an immediate message to me, I'll get back to you as quickly as possible.</span></div>
 </section>
  -->
+
+[koc-raving-fans]: /raving-fans
