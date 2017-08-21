@@ -80,5 +80,14 @@ $(document).ready(function(){
     });
   })
 
+  $("#traditional_references_link").on("click", function() {
+    ga('send', {
+      hitType: 'event',
+      eventCategory: 'References',
+      eventAction: 'download',
+      eventLabel: 'References - Download'
+    });
+  })
+
   // end custom knightoftheoldcode script
 });
