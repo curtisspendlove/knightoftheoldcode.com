@@ -50,7 +50,7 @@ I first knew I was destined to write code when I shipped my first Macintosh appl
 
     <h3>Resume</h3>
     <div>
-        <p>Please download my traditional <a id="traditional_resume_link" href="/assets/pdfs/resume/curtisspendlove.pdf" target="_blank">resume</a> if you have
+        <p>Please download my traditional <a id="traditional_resume_link" href="/assets/pdfs/resume/curtisspendlove-resume.pdf" target="_blank">resume</a> if you have
         need.</p>
     </div>
 </section>
@@ -83,6 +83,7 @@ If this isn't enough to convince you that I'm awesome, please feel free to
 <cite>Brandon Beck</cite> --- Software Engineer Lead, Domo
 {: .small}
 
+Please download my traditional <a id="traditional_references_link" href="/assets/pdfs/resume/curtisspendlove-references.pdf" target="_blank">references</a>.
 
 ## Contact
 
