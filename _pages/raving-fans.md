@@ -6,10 +6,16 @@ title: "Raving Fans"
 Over the course of a few decades, one ends up interacting with quite a number of people. I've
 collected the thoughts of some of those individuals here.
 
-<!-- > What Jake said...
+
+> If you care about your team's culture then Curtis is a must have member. He brings character and humility with him, not to mention a great work ethic. I was grateful to have been successful in recruiting him to our team. While he won't gab your ear off all day long he certainly gels well with a team and does a fantastic job of contributing to our tech discussions and decisions. As a leader, Curtis showed great patience when working with others as well as being fully committed and accountable for his projects.
+
+>While Curtis may appear stepped in java experience he actually has been able to deploy a variety of technologies. He showed us his ability to apply good practices while diving deeper into ruby and the rails framework. And for all his ability to guide and explain to others he is equally capable at being taught.
+
+>I look forward to the opportunity to work with Curtis again.
 
 <cite>Jake Mallory</cite> --- CTO, Acima Credit (formerly Simple Finance)
-{: .small} -->
+{: .small}
+
 
 > Well-spoken, passionate, great personality, and an expert of his craft. I have had the pleasure of working with Curtis and I would highly recommend him. He is very humble and truly has a well thought out plan of his goals and interests in relation to his career and his family. He is extremely loyal and is the type of developer that embraces new challenges, does not cut corners, and will meet and/or exceed all expectations put in front of him. Curtis is an expert coder who can also lead and mentor. He is definitely someone you want on your team.
 
