@@ -2,5 +2,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Consulting"
+    url: /consulting/
   - title: "Sitemap"
     url: /sitemap/
